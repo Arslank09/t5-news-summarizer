@@ -28,9 +28,6 @@ Paste any news article and get an instant AI-generated summary!
 3. Run the app
    streamlit run app.py
 
-## 📸 Screenshots
-(Add screenshot here)
-
 ## 👨‍💻 Built by Arslan Kareem
 BSCS Student — Federal Urdu University, Islamabad
 Completed AI & Data Analytics program covering Python, ML, Deep Learning,
